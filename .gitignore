@@ -3,6 +3,14 @@ start_kit/missing.txt
 start_kit/raw_videos/
 start_kit/raw_videos_mp4/
 start_kit/videos/
+start_kit/test_features/
+start_kit/test_labels/
+start_kit/train_features/
+start_kit/train_labels/
+start_kit/val_features/
+start_kit/val_labels/
+start_kit/all_features/
+start_kit/all_labels/
 
 */__pycache__
 code/I3D/archived/
