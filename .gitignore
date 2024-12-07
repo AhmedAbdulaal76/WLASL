@@ -14,6 +14,7 @@ start_kit/splitted_data/test_data_old/
 start_kit/splitted_data/train_data_old/
 start_kit/splitted_data/val_data_old/
 start_kit/splitted_data/temp/
+start_kit/features_labels/
 
 */__pycache__
 code/I3D/archived/
