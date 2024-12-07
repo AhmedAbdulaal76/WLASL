@@ -11,6 +11,10 @@ start_kit/val_features.npy
 start_kit/val_labels.npy
 start_kit/all_features/
 start_kit/all_labels/
+start_kit/splitted_data/test_data_old/
+start_kit/splitted_data/train_data_old/
+start_kit/splitted_data/val_data_old/
+start_kit/splitted_data/temp/
 
 */__pycache__
 code/I3D/archived/
