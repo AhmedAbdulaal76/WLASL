@@ -15,6 +15,11 @@ start_kit/splitted_data/train_data_old/
 start_kit/splitted_data/val_data_old/
 start_kit/splitted_data/temp/
 start_kit/features_labels/
+start_kit/chaos_data/
+start_kit/organized_data/
+start_kit/stratified_data/
+start_kit/raw_videos_mp4/
+start_kit/video_data/
 
 */__pycache__
 code/I3D/archived/
